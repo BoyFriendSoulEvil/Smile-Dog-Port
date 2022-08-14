@@ -14,6 +14,7 @@
 	"weekBefore": "tutorial",
 	"weekName": "Spread The Word",
 	"startUnlocked": true,
+	"difficulties": Normal,
 
 	"hideStoryMode": false,
 	"hideFreeplay": false
